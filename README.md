@@ -1,0 +1,2 @@
+# postsendtgBot
+Post jonatuvchi bot
